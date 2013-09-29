@@ -1,0 +1,1167 @@
+{:	data{I"/:ET{:default{	:	lastI"W<html lang="en">
+
+<!--
+     __          __
+    /\ \        / /
+   /  \ \  /\  / / 
+  / /\ \ \/  \/ /  
+ / ____ \  /\  /   
+/_/    \_\/  \/
+
+-->
+
+  <head>
+    <meta charset="utf-8">
+    <title>Albert Wavering: Home</title>
+    <link rel="stylesheet" media='screen and (min-width: 801px)' href="http://www.albertwavering.com/css/big.css">
+    <link rel='stylesheet' media='screen and (max-width: 800px)' href='http://www.albertwavering.com/css/small.css' />
+    <link rel="icon" type="image/png" href="http://www.albertwavering.com/favicon.ico">
+	<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700' rel='stylesheet' type='text/css'>
+    <meta name="generator" content="nanoc 3.6.4">
+	<!-- START Google Analytics -->
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-6959346-1']);
+			_gaq.push(['_setDomainName', location.hostname.split(".").slice(-2).join(".")]);
+			_gaq.push(['_setAllowAnchor', true]);
+			_gaq.push(['_setAllowLinker', true]);
+		</script>
+		<!--<script src="//s.bsd.net/bsdaction/default/page/-/js/analytics/ga_integration-min.js"></script>-->
+		<script>
+
+			_gaq.push(['_setSiteSpeedSampleRate', 20]);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	<!-- END Google Analytics -->
+  </head>
+  <body>
+    <div id="content">
+      <h1 class="pagetitle">Hi there!</h1>
+<p id="homedescription">I'm a digital analytics developer at <a href="http://www.bluestatedigital.com">Blue State Digital</a>.
+Take a look at <a href="http://www.albertwavering.com/projects.html">my projects</a>, read <a href="http://www.albertwavering.com/about.html">about me</a>, or <a href="http://www.albertwavering.com/contact.html">say hi</a>.</p>
+    </div>
+	<div id="navigation">
+      	<div id="name"><a href="http://www.albertwavering.com"><h2>Albert Wavering</h2></a></div>
+      <ul id="navlinks">
+        <li><a href="http://www.albertwavering.com/projects/">Projects</a></li>
+        <li><a href="http://www.albertwavering.com/about/">About</a></li>
+        <li><a href="http://www.albertwavering.com/contact/">Contact</a></li>
+      </ul>
+      <ul id="statuslinks">
+        <li><i class="icon-map-marker icon-large"></i> <a href="http://en.wikipedia.org/wiki/Washington,_D.C.">Washington, D.C.</a></li>
+        <li><i class="icon-book icon-large"></i> <a href="http://en.wikipedia.org/wiki/Ready_Player_One">Ready Player One</a></li>
+      </ul>
+    </div> <!--End Navigation-->
+  </body>
+</html>
+
+;T:rawI"‡<h1 class="pagetitle">Hi there!</h1>
+<p id="homedescription">I'm a digital analytics developer at <a href="http://www.bluestatedigital.com">Blue State Digital</a>.
+Take a look at <a href="http://www.albertwavering.com/projects.html">my projects</a>, read <a href="http://www.albertwavering.com/about.html">about me</a>, or <a href="http://www.albertwavering.com/contact.html">say hi</a>.</p>;T:preI"‡<h1 class="pagetitle">Hi there!</h1>
+<p id="homedescription">I'm a digital analytics developer at <a href="http://www.bluestatedigital.com">Blue State Digital</a>.
+Take a look at <a href="http://www.albertwavering.com/projects.html">my projects</a>, read <a href="http://www.albertwavering.com/about.html">about me</a>, or <a href="http://www.albertwavering.com/contact.html">say hi</a>.</p>;T:	post@
+I"/stylesheet/;T{;{;I"Y* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Ubuntu', Georgia, Palatino, Times, 'Times New Roman', sans-serif;
+}
+
+body {
+  background: #fff;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link,
+a:visited {
+  color: #08C;
+  /*originally #f30*/
+}
+
+a:hover {
+  color: black;
+}
+
+#main {
+  position: relative;
+  top: 40px;
+  left: 280px;
+  width: 500px;
+}
+
+#main h1 {
+  font-size: 40px;
+  font-weight: normal;
+
+  line-height: 40px;
+
+  letter-spacing: -1px;
+  font-family: 'Luckiest Guy', cursive;
+}
+
+#main p {
+  margin: 20px 0;
+  font-size: 19px;
+  line-height: 31px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#main ul, #main ol {
+  margin: 20px;
+}
+
+#main li {
+  font-size: 15px;
+
+  line-height: 20px;
+}
+
+#main ul li {
+  list-style-type: square;
+}
+
+#sidebar {
+  position: fixed;
+  float: left;
+  top: 40px;
+  left: 20px;
+  width: 200px;
+  padding: 20px 20px 0 0;
+  border-right: 1px solid #ccc;
+  text-align: right;
+}
+
+#sidebar h2 {
+  text-transform: uppercase;
+  font-size: 14px;
+  color: #333;
+  letter-spacing: 1px;
+  line-height: 20px;
+}
+
+#sidebar ul {
+  list-style-type: none;
+  margin: 20px 0;
+}
+
+#sidebar li {
+  font-size: 16px;
+  line-height: 40px;
+}
+
+#mainname {
+  margin-top: -15px;
+}
+
+#navheadshot {
+	
+}
+
+.circular {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+background: url(profile.jpeg) no-repeat;
+}
+;T;	@;
+@I"
+/big/;T{;{	;I"±
+<html lang="en">
+
+<!--
+     __          __
+    /\ \        / /
+   /  \ \  /\  / / 
+  / /\ \ \/  \/ /  
+ / ____ \  /\  /   
+/_/    \_\/  \/
+
+-->
+
+  <head>
+    <meta charset="utf-8">
+    <title>Albert Wavering: </title>
+    <link rel="stylesheet" media='screen and (min-width: 601px)' href="big.css">
+    <link rel="icon" type="image/png" href="http://www.albertwavering.com/favicon.ico">
+	<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Ubuntu:400,500|Luckiest+Guy' rel='stylesheet' type='text/css'>
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      * {
+  margin: 0;
+  padding: 0;
+  font-family: 'Ubuntu', Georgia, Palatino, Times, 'Times New Roman', sans-serif;
+}
+
+body {
+  background: #fff;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link,
+a:visited {
+  color: #08C;
+  /*originally #f30*/
+}
+
+a:hover {
+  color: black;
+}
+
+#main {
+  position: relative;
+  top: 40px;
+  left: 280px;
+  width: 500px;
+}
+
+#main h1 {
+  font-size: 40px;
+  font-weight: normal;
+
+  line-height: 40px;
+
+  letter-spacing: -1px;
+  font-family: 'Luckiest Guy', cursive;
+}
+
+#main p {
+  margin: 20px 0;
+  font-size: 19px;
+  line-height: 31px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#main ul, #main ol {
+  margin: 20px;
+}
+
+#main li {
+  font-size: 15px;
+
+  line-height: 20px;
+}
+
+#main ul li {
+  list-style-type: square;
+}
+
+#sidebar {
+  position: fixed;
+  float: left;
+  top: 40px;
+  left: 20px;
+  width: 200px;
+  padding: 20px 20px 0 0;
+  border-right: 1px solid #ccc;
+  text-align: right;
+}
+
+#sidebar h2 {
+  text-transform: uppercase;
+  font-size: 14px;
+  color: #333;
+  letter-spacing: 1px;
+  line-height: 20px;
+}
+
+#sidebar ul {
+  list-style-type: none;
+  margin: 20px 0;
+}
+
+#sidebar li {
+  font-size: 16px;
+  line-height: 40px;
+}
+
+#mainname {
+  margin-top: -15px;
+}
+
+#navheadshot {
+	
+}
+
+.circular {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+background: url(profile.jpeg) no-repeat;
+}
+
+    </div>
+    <div id="sidebar">
+      <h2>Albert</h2>
+      <h2>Wavering</h2>
+      <ul>
+        <li><a href="http://www.albertwavering.com/projects.html">Projects</a></li>
+        <li><a href="http://www.albertwavering.com/about.html">About</a></li>
+        <li><a href="http://www.albertwavering.com/contact.html">Contact</a></li>
+      </ul>
+      <ul>
+        <li><i class="icon-map-marker icon-large"></i> <a href="http://en.wikipedia.org/wiki/Washington,_D.C.">Washington, D.C.</a></li>
+        <li><i class="icon-book icon-large"></i> <a href="http://en.wikipedia.org/wiki/Ready_Player_One">Ready Player One</a></li>
+      </ul>
+    </div>
+  </body>
+</html>
+
+;T;	I"Y* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Ubuntu', Georgia, Palatino, Times, 'Times New Roman', sans-serif;
+}
+
+body {
+  background: #fff;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link,
+a:visited {
+  color: #08C;
+  /*originally #f30*/
+}
+
+a:hover {
+  color: black;
+}
+
+#main {
+  position: relative;
+  top: 40px;
+  left: 280px;
+  width: 500px;
+}
+
+#main h1 {
+  font-size: 40px;
+  font-weight: normal;
+
+  line-height: 40px;
+
+  letter-spacing: -1px;
+  font-family: 'Luckiest Guy', cursive;
+}
+
+#main p {
+  margin: 20px 0;
+  font-size: 19px;
+  line-height: 31px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#main ul, #main ol {
+  margin: 20px;
+}
+
+#main li {
+  font-size: 15px;
+
+  line-height: 20px;
+}
+
+#main ul li {
+  list-style-type: square;
+}
+
+#sidebar {
+  position: fixed;
+  float: left;
+  top: 40px;
+  left: 20px;
+  width: 200px;
+  padding: 20px 20px 0 0;
+  border-right: 1px solid #ccc;
+  text-align: right;
+}
+
+#sidebar h2 {
+  text-transform: uppercase;
+  font-size: 14px;
+  color: #333;
+  letter-spacing: 1px;
+  line-height: 20px;
+}
+
+#sidebar ul {
+  list-style-type: none;
+  margin: 20px 0;
+}
+
+#sidebar li {
+  font-size: 16px;
+  line-height: 40px;
+}
+
+#mainname {
+  margin-top: -15px;
+}
+
+#navheadshot {
+	
+}
+
+.circular {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+background: url(profile.jpeg) no-repeat;
+}
+;T;
+I"Y* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Ubuntu', Georgia, Palatino, Times, 'Times New Roman', sans-serif;
+}
+
+body {
+  background: #fff;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link,
+a:visited {
+  color: #08C;
+  /*originally #f30*/
+}
+
+a:hover {
+  color: black;
+}
+
+#main {
+  position: relative;
+  top: 40px;
+  left: 280px;
+  width: 500px;
+}
+
+#main h1 {
+  font-size: 40px;
+  font-weight: normal;
+
+  line-height: 40px;
+
+  letter-spacing: -1px;
+  font-family: 'Luckiest Guy', cursive;
+}
+
+#main p {
+  margin: 20px 0;
+  font-size: 19px;
+  line-height: 31px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#main ul, #main ol {
+  margin: 20px;
+}
+
+#main li {
+  font-size: 15px;
+
+  line-height: 20px;
+}
+
+#main ul li {
+  list-style-type: square;
+}
+
+#sidebar {
+  position: fixed;
+  float: left;
+  top: 40px;
+  left: 20px;
+  width: 200px;
+  padding: 20px 20px 0 0;
+  border-right: 1px solid #ccc;
+  text-align: right;
+}
+
+#sidebar h2 {
+  text-transform: uppercase;
+  font-size: 14px;
+  color: #333;
+  letter-spacing: 1px;
+  line-height: 20px;
+}
+
+#sidebar ul {
+  list-style-type: none;
+  margin: 20px 0;
+}
+
+#sidebar li {
+  font-size: 16px;
+  line-height: 40px;
+}
+
+#mainname {
+  margin-top: -15px;
+}
+
+#navheadshot {
+	
+}
+
+.circular {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+background: url(profile.jpeg) no-repeat;
+}
+;T;@I"/small/;T{;{	;I"¡
+<html lang="en">
+
+<!--
+     __          __
+    /\ \        / /
+   /  \ \  /\  / / 
+  / /\ \ \/  \/ /  
+ / ____ \  /\  /   
+/_/    \_\/  \/
+
+-->
+
+  <head>
+    <meta charset="utf-8">
+    <title>Albert Wavering: </title>
+    <link rel="stylesheet" media='screen and (min-width: 601px)' href="big.css">
+    <link rel="icon" type="image/png" href="http://www.albertwavering.com/favicon.ico">
+	<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Ubuntu:400,500|Luckiest+Guy' rel='stylesheet' type='text/css'>
+    <meta name="generator" content="nanoc 3.6.4"> 
+  </head>
+  <body>
+    <div id="main">
+      * {
+  margin: 0;
+  padding: 0;
+  font-family: 'Ubuntu', Georgia, Palatino, Times, 'Times New Roman', sans-serif;
+}
+
+body {
+  background: #fff;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link,
+a:visited {
+  color: #08C;
+  /*originally #f30*/
+}
+
+a:hover {
+  color: black;
+}
+
+#main {
+  position: relative;
+  top: 40px;
+  left: 280px;
+  width: 500px;
+}
+
+#main h1 {
+  font-size: 40px;
+  font-weight: normal;
+
+  line-height: 40px;
+
+  letter-spacing: -1px;
+  font-family: cursive;
+}
+
+#main p {
+  margin: 20px 0;
+  font-size: 19px;
+  line-height: 31px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#main ul, #main ol {
+  margin: 20px;
+}
+
+#main li {
+  font-size: 15px;
+
+  line-height: 20px;
+}
+
+#main ul li {
+  list-style-type: square;
+}
+
+#sidebar {
+  position: fixed;
+  float: left;
+  top: 40px;
+  left: 20px;
+  width: 200px;
+  padding: 20px 20px 0 0;
+  border-right: 1px solid #ccc;
+  text-align: right;
+}
+
+#sidebar h2 {
+  text-transform: uppercase;
+  font-size: 14px;
+  color: #333;
+  letter-spacing: 1px;
+  line-height: 20px;
+}
+
+#sidebar ul {
+  list-style-type: none;
+  margin: 20px 0;
+}
+
+#sidebar li {
+  font-size: 16px;
+  line-height: 40px;
+}
+
+#mainname {
+  margin-top: -15px;
+}
+
+#navheadshot {
+	
+}
+
+.circular {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+background: url(profile.jpeg) no-repeat;
+}
+
+    </div>
+    <div id="sidebar">
+      <h2>Albert</h2>
+      <h2>Wavering</h2>
+      <ul>
+        <li><a href="http://www.albertwavering.com/projects.html">Projects</a></li>
+        <li><a href="http://www.albertwavering.com/about.html">About</a></li>
+        <li><a href="http://www.albertwavering.com/contact.html">Contact</a></li>
+      </ul>
+      <ul>
+        <li><i class="icon-map-marker icon-large"></i> <a href="http://en.wikipedia.org/wiki/Washington,_D.C.">Washington, D.C.</a></li>
+        <li><i class="icon-book icon-large"></i> <a href="http://en.wikipedia.org/wiki/Ready_Player_One">Ready Player One</a></li>
+      </ul>
+    </div>
+  </body>
+</html>
+
+;T;	I"I* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Ubuntu', Georgia, Palatino, Times, 'Times New Roman', sans-serif;
+}
+
+body {
+  background: #fff;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link,
+a:visited {
+  color: #08C;
+  /*originally #f30*/
+}
+
+a:hover {
+  color: black;
+}
+
+#main {
+  position: relative;
+  top: 40px;
+  left: 280px;
+  width: 500px;
+}
+
+#main h1 {
+  font-size: 40px;
+  font-weight: normal;
+
+  line-height: 40px;
+
+  letter-spacing: -1px;
+  font-family: cursive;
+}
+
+#main p {
+  margin: 20px 0;
+  font-size: 19px;
+  line-height: 31px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#main ul, #main ol {
+  margin: 20px;
+}
+
+#main li {
+  font-size: 15px;
+
+  line-height: 20px;
+}
+
+#main ul li {
+  list-style-type: square;
+}
+
+#sidebar {
+  position: fixed;
+  float: left;
+  top: 40px;
+  left: 20px;
+  width: 200px;
+  padding: 20px 20px 0 0;
+  border-right: 1px solid #ccc;
+  text-align: right;
+}
+
+#sidebar h2 {
+  text-transform: uppercase;
+  font-size: 14px;
+  color: #333;
+  letter-spacing: 1px;
+  line-height: 20px;
+}
+
+#sidebar ul {
+  list-style-type: none;
+  margin: 20px 0;
+}
+
+#sidebar li {
+  font-size: 16px;
+  line-height: 40px;
+}
+
+#mainname {
+  margin-top: -15px;
+}
+
+#navheadshot {
+	
+}
+
+.circular {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+background: url(profile.jpeg) no-repeat;
+}
+;T;
+I"I* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Ubuntu', Georgia, Palatino, Times, 'Times New Roman', sans-serif;
+}
+
+body {
+  background: #fff;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link,
+a:visited {
+  color: #08C;
+  /*originally #f30*/
+}
+
+a:hover {
+  color: black;
+}
+
+#main {
+  position: relative;
+  top: 40px;
+  left: 280px;
+  width: 500px;
+}
+
+#main h1 {
+  font-size: 40px;
+  font-weight: normal;
+
+  line-height: 40px;
+
+  letter-spacing: -1px;
+  font-family: cursive;
+}
+
+#main p {
+  margin: 20px 0;
+  font-size: 19px;
+  line-height: 31px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#main ul, #main ol {
+  margin: 20px;
+}
+
+#main li {
+  font-size: 15px;
+
+  line-height: 20px;
+}
+
+#main ul li {
+  list-style-type: square;
+}
+
+#sidebar {
+  position: fixed;
+  float: left;
+  top: 40px;
+  left: 20px;
+  width: 200px;
+  padding: 20px 20px 0 0;
+  border-right: 1px solid #ccc;
+  text-align: right;
+}
+
+#sidebar h2 {
+  text-transform: uppercase;
+  font-size: 14px;
+  color: #333;
+  letter-spacing: 1px;
+  line-height: 20px;
+}
+
+#sidebar ul {
+  list-style-type: none;
+  margin: 20px 0;
+}
+
+#sidebar li {
+  font-size: 16px;
+  line-height: 40px;
+}
+
+#mainname {
+  margin-top: -15px;
+}
+
+#navheadshot {
+	
+}
+
+.circular {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+background: url(profile.jpeg) no-repeat;
+}
+;T;@I"/about/;T{;{	;I"â<html lang="en">
+
+<!--
+     __          __
+    /\ \        / /
+   /  \ \  /\  / / 
+  / /\ \ \/  \/ /  
+ / ____ \  /\  /   
+/_/    \_\/  \/
+
+-->
+
+  <head>
+    <meta charset="utf-8">
+    <title>Albert Wavering: About Me</title>
+    <link rel="stylesheet" media='screen and (min-width: 801px)' href="http://www.albertwavering.com/css/big.css">
+    <link rel='stylesheet' media='screen and (max-width: 800px)' href='http://www.albertwavering.com/css/small.css' />
+    <link rel="icon" type="image/png" href="http://www.albertwavering.com/favicon.ico">
+	<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700' rel='stylesheet' type='text/css'>
+    <meta name="generator" content="nanoc 3.6.4">
+	<!-- START Google Analytics -->
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-6959346-1']);
+			_gaq.push(['_setDomainName', location.hostname.split(".").slice(-2).join(".")]);
+			_gaq.push(['_setAllowAnchor', true]);
+			_gaq.push(['_setAllowLinker', true]);
+		</script>
+		<!--<script src="//s.bsd.net/bsdaction/default/page/-/js/analytics/ga_integration-min.js"></script>-->
+		<script>
+
+			_gaq.push(['_setSiteSpeedSampleRate', 20]);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	<!-- END Google Analytics -->
+  </head>
+  <body>
+    <div id="content">
+      <h1 class="pagetitle">About</h1>
+<div class="pagecontent">
+<p>I help nonprofits, cultural institutions, and good causes win online at <a href="http://www.bluestatedigital.com">Blue State Digital</a>.</p>
+<p>This site is hosted on <a href="https://www.nearlyfreespeech.net/">Nearly Free Speech</a>, built with <a href="http://nanoc.ws/">nanoc</a>, and licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
+</p>
+</div>
+    </div>
+	<div id="navigation">
+      	<div id="name"><a href="http://www.albertwavering.com"><h2>Albert Wavering</h2></a></div>
+      <ul id="navlinks">
+        <li><a href="http://www.albertwavering.com/projects/">Projects</a></li>
+        <li><a href="http://www.albertwavering.com/about/">About</a></li>
+        <li><a href="http://www.albertwavering.com/contact/">Contact</a></li>
+      </ul>
+      <ul id="statuslinks">
+        <li><i class="icon-map-marker icon-large"></i> <a href="http://en.wikipedia.org/wiki/Washington,_D.C.">Washington, D.C.</a></li>
+        <li><i class="icon-book icon-large"></i> <a href="http://en.wikipedia.org/wiki/Ready_Player_One">Ready Player One</a></li>
+      </ul>
+    </div> <!--End Navigation-->
+  </body>
+</html>
+
+;T;	I"<h1 class="pagetitle">About</h1>
+<div class="pagecontent">
+<p>I help nonprofits, cultural institutions, and good causes win online at <a href="http://www.bluestatedigital.com">Blue State Digital</a>.</p>
+<p>This site is hosted on <a href="https://www.nearlyfreespeech.net/">Nearly Free Speech</a>, built with <a href="http://nanoc.ws/">nanoc</a>, and licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
+</p>
+</div>;T;
+I"<h1 class="pagetitle">About</h1>
+<div class="pagecontent">
+<p>I help nonprofits, cultural institutions, and good causes win online at <a href="http://www.bluestatedigital.com">Blue State Digital</a>.</p>
+<p>This site is hosted on <a href="https://www.nearlyfreespeech.net/">Nearly Free Speech</a>, built with <a href="http://nanoc.ws/">nanoc</a>, and licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
+</p>
+</div>;T;@ I"/contact/;T{;{	;I"¹<html lang="en">
+
+<!--
+     __          __
+    /\ \        / /
+   /  \ \  /\  / / 
+  / /\ \ \/  \/ /  
+ / ____ \  /\  /   
+/_/    \_\/  \/
+
+-->
+
+  <head>
+    <meta charset="utf-8">
+    <title>Albert Wavering: Contact Me</title>
+    <link rel="stylesheet" media='screen and (min-width: 801px)' href="http://www.albertwavering.com/css/big.css">
+    <link rel='stylesheet' media='screen and (max-width: 800px)' href='http://www.albertwavering.com/css/small.css' />
+    <link rel="icon" type="image/png" href="http://www.albertwavering.com/favicon.ico">
+	<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700' rel='stylesheet' type='text/css'>
+    <meta name="generator" content="nanoc 3.6.4">
+	<!-- START Google Analytics -->
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-6959346-1']);
+			_gaq.push(['_setDomainName', location.hostname.split(".").slice(-2).join(".")]);
+			_gaq.push(['_setAllowAnchor', true]);
+			_gaq.push(['_setAllowLinker', true]);
+		</script>
+		<!--<script src="//s.bsd.net/bsdaction/default/page/-/js/analytics/ga_integration-min.js"></script>-->
+		<script>
+
+			_gaq.push(['_setSiteSpeedSampleRate', 20]);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	<!-- END Google Analytics -->
+  </head>
+  <body>
+    <div id="content">
+      <h1 class="pagetitle">Contact</h1>
+<div class="pagecontent">
+<p>You can <a href="mailto:albert.wavering@gmail.com">email me</a> or find me at one of these fine internet establishments.</p>
+<ul>
+<li><a href="http://www.twitter.com/albertwavering">Twitter</a></li>
+<li><a href="http://www.github.com/awavering">Github</a></li>
+<li><a href="http://www.facebook.com/albert.wavering">Facebook</a></li>
+<li><a href="http://www.linkedin.com/in/albertwavering">LinkedIn</a></li>
+</ul>
+</div>
+    </div>
+	<div id="navigation">
+      	<div id="name"><a href="http://www.albertwavering.com"><h2>Albert Wavering</h2></a></div>
+      <ul id="navlinks">
+        <li><a href="http://www.albertwavering.com/projects/">Projects</a></li>
+        <li><a href="http://www.albertwavering.com/about/">About</a></li>
+        <li><a href="http://www.albertwavering.com/contact/">Contact</a></li>
+      </ul>
+      <ul id="statuslinks">
+        <li><i class="icon-map-marker icon-large"></i> <a href="http://en.wikipedia.org/wiki/Washington,_D.C.">Washington, D.C.</a></li>
+        <li><i class="icon-book icon-large"></i> <a href="http://en.wikipedia.org/wiki/Ready_Player_One">Ready Player One</a></li>
+      </ul>
+    </div> <!--End Navigation-->
+  </body>
+</html>
+
+;T;	I"ã<h1 class="pagetitle">Contact</h1>
+<div class="pagecontent">
+<p>You can <a href="mailto:albert.wavering@gmail.com">email me</a> or find me at one of these fine internet establishments.</p>
+<ul>
+<li><a href="http://www.twitter.com/albertwavering">Twitter</a></li>
+<li><a href="http://www.github.com/awavering">Github</a></li>
+<li><a href="http://www.facebook.com/albert.wavering">Facebook</a></li>
+<li><a href="http://www.linkedin.com/in/albertwavering">LinkedIn</a></li>
+</ul>
+</div>;T;
+I"ã<h1 class="pagetitle">Contact</h1>
+<div class="pagecontent">
+<p>You can <a href="mailto:albert.wavering@gmail.com">email me</a> or find me at one of these fine internet establishments.</p>
+<ul>
+<li><a href="http://www.twitter.com/albertwavering">Twitter</a></li>
+<li><a href="http://www.github.com/awavering">Github</a></li>
+<li><a href="http://www.facebook.com/albert.wavering">Facebook</a></li>
+<li><a href="http://www.linkedin.com/in/albertwavering">LinkedIn</a></li>
+</ul>
+</div>;T;@&I"/projects/;T{;{	;I"K<html lang="en">
+
+<!--
+     __          __
+    /\ \        / /
+   /  \ \  /\  / / 
+  / /\ \ \/  \/ /  
+ / ____ \  /\  /   
+/_/    \_\/  \/
+
+-->
+
+  <head>
+    <meta charset="utf-8">
+    <title>Albert Wavering: Projects</title>
+    <link rel="stylesheet" media='screen and (min-width: 801px)' href="http://www.albertwavering.com/css/big.css">
+    <link rel='stylesheet' media='screen and (max-width: 800px)' href='http://www.albertwavering.com/css/small.css' />
+    <link rel="icon" type="image/png" href="http://www.albertwavering.com/favicon.ico">
+	<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700' rel='stylesheet' type='text/css'>
+    <meta name="generator" content="nanoc 3.6.4">
+	<!-- START Google Analytics -->
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-6959346-1']);
+			_gaq.push(['_setDomainName', location.hostname.split(".").slice(-2).join(".")]);
+			_gaq.push(['_setAllowAnchor', true]);
+			_gaq.push(['_setAllowLinker', true]);
+		</script>
+		<!--<script src="//s.bsd.net/bsdaction/default/page/-/js/analytics/ga_integration-min.js"></script>-->
+		<script>
+
+			_gaq.push(['_setSiteSpeedSampleRate', 20]);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	<!-- END Google Analytics -->
+  </head>
+  <body>
+    <div id="content">
+      <h1 class="pagetitle">Projects</h1>
+<div class="pagecontent">
+<p>I like making things. Here are some of them:</p>
+<ul>
+<li><a href="http://www.bikeaday.com">Bike a Day</a> - your daily fix of awesome two-wheeled transportation.</li>
+<li><a href="http://www.albertwavering.com/projects/commoncrawl">Congressional Sentiments</a> - Combining data about congressional bills and the Common Crawl data sets lets us see how the internet reacts to legislation.</li>
+<li><a href="http://www.fortheloveofallthingsholy.com">ForTheLoveOfAllThingsHoly.com</a> - a selection of humorous definitions from Ambrose Bierce's <i>Devil's Dictionary</i>.</li>
+<li><a href="http://www.gobrainbox.com">Brainbox</a> - a better way for parents, teachers, and students to share classroom information easily and securely.</li>
+<li><a href="http://www.albertwavering.com/creepumd">CreepUMD</a> - I tweaked University webcam settings for high-resolution, realtime streaming. Get your creep on.</li>
+<li><a href="http://www.albertwavering.com/projects/drum.html">Da Vinci's Mechanical Drum</a> - a life size, working replica of one of Leonardo's machines.</li>
+</ul>
+</div>
+    </div>
+	<div id="navigation">
+      	<div id="name"><a href="http://www.albertwavering.com"><h2>Albert Wavering</h2></a></div>
+      <ul id="navlinks">
+        <li><a href="http://www.albertwavering.com/projects/">Projects</a></li>
+        <li><a href="http://www.albertwavering.com/about/">About</a></li>
+        <li><a href="http://www.albertwavering.com/contact/">Contact</a></li>
+      </ul>
+      <ul id="statuslinks">
+        <li><i class="icon-map-marker icon-large"></i> <a href="http://en.wikipedia.org/wiki/Washington,_D.C.">Washington, D.C.</a></li>
+        <li><i class="icon-book icon-large"></i> <a href="http://en.wikipedia.org/wiki/Ready_Player_One">Ready Player One</a></li>
+      </ul>
+    </div> <!--End Navigation-->
+  </body>
+</html>
+
+;T;	I"w<h1 class="pagetitle">Projects</h1>
+<div class="pagecontent">
+<p>I like making things. Here are some of them:</p>
+<ul>
+<li><a href="http://www.bikeaday.com">Bike a Day</a> - your daily fix of awesome two-wheeled transportation.</li>
+<li><a href="http://www.albertwavering.com/projects/commoncrawl">Congressional Sentiments</a> - Combining data about congressional bills and the Common Crawl data sets lets us see how the internet reacts to legislation.</li>
+<li><a href="http://www.fortheloveofallthingsholy.com">ForTheLoveOfAllThingsHoly.com</a> - a selection of humorous definitions from Ambrose Bierce's <i>Devil's Dictionary</i>.</li>
+<li><a href="http://www.gobrainbox.com">Brainbox</a> - a better way for parents, teachers, and students to share classroom information easily and securely.</li>
+<li><a href="http://www.albertwavering.com/creepumd">CreepUMD</a> - I tweaked University webcam settings for high-resolution, realtime streaming. Get your creep on.</li>
+<li><a href="http://www.albertwavering.com/projects/drum.html">Da Vinci's Mechanical Drum</a> - a life size, working replica of one of Leonardo's machines.</li>
+</ul>
+</div>;T;
+I"w<h1 class="pagetitle">Projects</h1>
+<div class="pagecontent">
+<p>I like making things. Here are some of them:</p>
+<ul>
+<li><a href="http://www.bikeaday.com">Bike a Day</a> - your daily fix of awesome two-wheeled transportation.</li>
+<li><a href="http://www.albertwavering.com/projects/commoncrawl">Congressional Sentiments</a> - Combining data about congressional bills and the Common Crawl data sets lets us see how the internet reacts to legislation.</li>
+<li><a href="http://www.fortheloveofallthingsholy.com">ForTheLoveOfAllThingsHoly.com</a> - a selection of humorous definitions from Ambrose Bierce's <i>Devil's Dictionary</i>.</li>
+<li><a href="http://www.gobrainbox.com">Brainbox</a> - a better way for parents, teachers, and students to share classroom information easily and securely.</li>
+<li><a href="http://www.albertwavering.com/creepumd">CreepUMD</a> - I tweaked University webcam settings for high-resolution, realtime streaming. Get your creep on.</li>
+<li><a href="http://www.albertwavering.com/projects/drum.html">Da Vinci's Mechanical Drum</a> - a life size, working replica of one of Leonardo's machines.</li>
+</ul>
+</div>;T;@,:versioni
