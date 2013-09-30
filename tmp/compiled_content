@@ -1,4 +1,4 @@
-{:	data{I"/:ET{:default{	:	lastI"W<html lang="en">
+{:	data{I"/:ET{:default{	:	lastI"W<html lang="en">
 
 <!--
      __          __
@@ -1164,4 +1164,68 @@ I"w<h1 class="pagetitle">Projects</h1>
 <li><a href="http://www.albertwavering.com/creepumd">CreepUMD</a> - I tweaked University webcam settings for high-resolution, realtime streaming. Get your creep on.</li>
 <li><a href="http://www.albertwavering.com/projects/drum.html">Da Vinci's Mechanical Drum</a> - a life size, working replica of one of Leonardo's machines.</li>
 </ul>
-</div>;T;@,:versioni
+</div>;T;@,I"
+/404/;T{;{	;I"
+<html lang="en">
+
+<!--
+     __          __
+    /\ \        / /
+   /  \ \  /\  / / 
+  / /\ \ \/  \/ /  
+ / ____ \  /\  /   
+/_/    \_\/  \/
+
+-->
+
+  <head>
+    <meta charset="utf-8">
+    <title>Albert Wavering: 404 Not Found</title>
+    <link rel="stylesheet" media='screen and (min-width: 801px)' href="http://www.albertwavering.com/css/big.css">
+    <link rel='stylesheet' media='screen and (max-width: 800px)' href='http://www.albertwavering.com/css/small.css' />
+    <link rel="icon" type="image/png" href="http://www.albertwavering.com/favicon.ico">
+	<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700' rel='stylesheet' type='text/css'>
+    <meta name="generator" content="nanoc 3.6.4">
+	<!-- START Google Analytics -->
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-6959346-1']);
+			_gaq.push(['_setDomainName', location.hostname.split(".").slice(-2).join(".")]);
+			_gaq.push(['_setAllowAnchor', true]);
+			_gaq.push(['_setAllowLinker', true]);
+		</script>
+		<!--<script src="//s.bsd.net/bsdaction/default/page/-/js/analytics/ga_integration-min.js"></script>-->
+		<script>
+
+			_gaq.push(['_setSiteSpeedSampleRate', 20]);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	<!-- END Google Analytics -->
+  </head>
+  <body>
+    <div id="content">
+      <h1 class="pagetitle">There's nothing here! Sorry about that.</h1>
+    </div>
+	<div id="navigation">
+      	<div id="name"><a href="http://www.albertwavering.com"><h2>Albert Wavering</h2></a></div>
+      <ul id="navlinks">
+        <li><a href="http://www.albertwavering.com/projects/">Projects</a></li>
+        <li><a href="http://www.albertwavering.com/about/">About</a></li>
+        <li><a href="http://www.albertwavering.com/contact/">Contact</a></li>
+      </ul>
+      <ul id="statuslinks">
+        <li><i class="icon-map-marker icon-large"></i> <a href="http://en.wikipedia.org/wiki/Washington,_D.C.">Washington, D.C.</a></li>
+        <li><i class="icon-book icon-large"></i> <a href="http://en.wikipedia.org/wiki/Ready_Player_One">Ready Player One</a></li>
+      </ul>
+    </div> <!--End Navigation-->
+  </body>
+</html>
+
+;T;	I"G<h1 class="pagetitle">There's nothing here! Sorry about that.</h1>;T;
+I"G<h1 class="pagetitle">There's nothing here! Sorry about that.</h1>;T;@2:versioni
