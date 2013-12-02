@@ -36,10 +36,21 @@ ul {
 
 #content .pagecontent {
 	font-size: 20px;
+	padding-right: 40px;
 }
 
 #content .pagecontent p{
 	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#content .pagecontent ul{
+	padding-left: 24px;
+	padding-right: 24px;
+	font-size: 20px;
+}
+
+#content .pagecontent li{
 	padding-bottom: 20px;
 }
 
@@ -106,8 +117,3 @@ ul {
 	margin-right: 8px;
 }
 
-.pagecontent {
-	padding-top: 40px;
-	padding-right: 80px;
-	padding-bottom: 40px;
-}

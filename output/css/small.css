@@ -25,13 +25,20 @@ ul {
 
 #content {
 	width: 90%;
+	margin-top: 100px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-#content #pagetitle {
-	font-size: 40px;
+#content .pagetitle {
+	display: block;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-size: 28px;
 	font-weight: bold;
+	width: 81%;
+	margin-left:auto;
+	margin-right:auto;
 }
 
 #content .pagecontent {
@@ -42,18 +49,26 @@ ul {
 
 #content .pagecontent p{
 	display: block;
-	margin-top: 10px;
+	margin-bottom: 10px;
 	font-size: 22px;
 	width: 90%;
 	margin-left: auto;
 	margin-right: auto;
 }
 
+#content .pagecontent ul{
+	width: 89%
+	font-size: 22px;
+}
+
+#content .pagecontent li{
+	padding-bottom: 20px;
+}
+
 #content #homedescription {
 	display: block;
-	margin-top: 100px;
 	font-size: 26px;
-	width: 90%;
+	width: 81%;
 	margin-left: auto;
 	margin-right: auto;
 }
