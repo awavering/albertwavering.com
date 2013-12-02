@@ -1,4 +1,4 @@
-{:	data{I"/:ET{:default{	:	lastI"<html lang="en">
+{:	data{I"/:ET{:default{	:	lastI"I<html lang="en">
 
 <!--
      __          __
@@ -13,8 +13,8 @@
   <head>
     <meta charset="utf-8">
     <title>Albert Wavering: Home</title>
-    <link rel="stylesheet" media='screen and (min-width: 801px)' href="css/big.css">
-    <link rel='stylesheet' media='screen and (max-width: 800px)' href='css/small.css' />
+    <link rel="stylesheet" media='screen and (min-width: 801px)' href="http://www.albertwavering.com/css/big.css">
+    <link rel='stylesheet' media='handheld and (max-width: 800px)' href='http://www.albertwavering.com/css/small.css' />
     <link rel="icon" type="image/png" href="http://www.albertwavering.com/favicon.ico">
 	<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700' rel='stylesheet' type='text/css'>
@@ -55,7 +55,7 @@ Take a look at <a href="http://www.albertwavering.com/projects/">my projects</a>
       </ul>
       <ul id="statuslinks">
         <li><i class="icon-map-marker icon-large"></i> <a href="http://en.wikipedia.org/wiki/Washington,_D.C.">Washington, D.C.</a></li>
-        <li><i class="icon-book icon-large"></i> <a href="http://en.wikipedia.org/wiki/Ready_Player_One">Ready Player One</a></li>
+        <li><i class="icon-book icon-large"></i> <a href="http://en.wikipedia.org/wiki/Foundation_(novel)">Foundation</a></li>
       </ul>
     </div> <!--End Navigation-->
   </body>
@@ -903,7 +903,7 @@ a:hover {
 	-moz-border-radius: 150px;
 background: url(profile.jpeg) no-repeat;
 }
-;T;@I"/about/;T{;{	;I"<html lang="en">
+;T;@I"/about/;T{;{	;I"K<html lang="en">
 
 <!--
      __          __
@@ -918,8 +918,8 @@ background: url(profile.jpeg) no-repeat;
   <head>
     <meta charset="utf-8">
     <title>Albert Wavering: About Me</title>
-    <link rel="stylesheet" media='screen and (min-width: 801px)' href="css/big.css">
-    <link rel='stylesheet' media='screen and (max-width: 800px)' href='css/small.css' />
+    <link rel="stylesheet" media='screen and (min-width: 801px)' href="http://www.albertwavering.com/css/big.css">
+    <link rel='stylesheet' media='handheld and (max-width: 800px)' href='http://www.albertwavering.com/css/small.css' />
     <link rel="icon" type="image/png" href="http://www.albertwavering.com/favicon.ico">
 	<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700' rel='stylesheet' type='text/css'>
@@ -963,7 +963,7 @@ background: url(profile.jpeg) no-repeat;
       </ul>
       <ul id="statuslinks">
         <li><i class="icon-map-marker icon-large"></i> <a href="http://en.wikipedia.org/wiki/Washington,_D.C.">Washington, D.C.</a></li>
-        <li><i class="icon-book icon-large"></i> <a href="http://en.wikipedia.org/wiki/Ready_Player_One">Ready Player One</a></li>
+        <li><i class="icon-book icon-large"></i> <a href="http://en.wikipedia.org/wiki/Foundation_(novel)">Foundation</a></li>
       </ul>
     </div> <!--End Navigation-->
   </body>
@@ -980,7 +980,7 @@ I"y<h1 class="pagetitle">About</h1>
 <p>I help nonprofits, cultural institutions, and good causes win online at <a href="http://www.bluestatedigital.com">Blue State Digital</a>.</p>
 <p>This site is hosted on <a href="https://www.nearlyfreespeech.net/">Nearly Free Speech</a>, built with <a href="http://nanoc.ws/">nanoc</a>, and licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>. You can check out the source code <a href="https://github.com/awavering/albertwavering.com">on Github</a>.
 </p>
-</div>;T;@ I"/contact/;T{;{	;I"}<html lang="en">
+</div>;T;@ I"/contact/;T{;{	;I"·<html lang="en">
 
 <!--
      __          __
@@ -995,8 +995,8 @@ I"y<h1 class="pagetitle">About</h1>
   <head>
     <meta charset="utf-8">
     <title>Albert Wavering: Contact Me</title>
-    <link rel="stylesheet" media='screen and (min-width: 801px)' href="css/big.css">
-    <link rel='stylesheet' media='screen and (max-width: 800px)' href='css/small.css' />
+    <link rel="stylesheet" media='screen and (min-width: 801px)' href="http://www.albertwavering.com/css/big.css">
+    <link rel='stylesheet' media='handheld and (max-width: 800px)' href='http://www.albertwavering.com/css/small.css' />
     <link rel="icon" type="image/png" href="http://www.albertwavering.com/favicon.ico">
 	<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700' rel='stylesheet' type='text/css'>
@@ -1044,7 +1044,7 @@ I"y<h1 class="pagetitle">About</h1>
       </ul>
       <ul id="statuslinks">
         <li><i class="icon-map-marker icon-large"></i> <a href="http://en.wikipedia.org/wiki/Washington,_D.C.">Washington, D.C.</a></li>
-        <li><i class="icon-book icon-large"></i> <a href="http://en.wikipedia.org/wiki/Ready_Player_One">Ready Player One</a></li>
+        <li><i class="icon-book icon-large"></i> <a href="http://en.wikipedia.org/wiki/Foundation_(novel)">Foundation</a></li>
       </ul>
     </div> <!--End Navigation-->
   </body>
@@ -1069,7 +1069,7 @@ I"ã<h1 class="pagetitle">Contact</h1>
 <li><a href="http://www.facebook.com/albert.wavering">Facebook</a></li>
 <li><a href="http://www.linkedin.com/in/albertwavering">LinkedIn</a></li>
 </ul>
-</div>;T;@&I"/projects/;T{;{	;I"—<html lang="en">
+</div>;T;@&I"/projects/;T{;{	;I"Ñ<html lang="en">
 
 <!--
      __          __
@@ -1084,8 +1084,8 @@ I"ã<h1 class="pagetitle">Contact</h1>
   <head>
     <meta charset="utf-8">
     <title>Albert Wavering: Projects</title>
-    <link rel="stylesheet" media='screen and (min-width: 801px)' href="css/big.css">
-    <link rel='stylesheet' media='screen and (max-width: 800px)' href='css/small.css' />
+    <link rel="stylesheet" media='screen and (min-width: 801px)' href="http://www.albertwavering.com/css/big.css">
+    <link rel='stylesheet' media='handheld and (max-width: 800px)' href='http://www.albertwavering.com/css/small.css' />
     <link rel="icon" type="image/png" href="http://www.albertwavering.com/favicon.ico">
 	<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700' rel='stylesheet' type='text/css'>
@@ -1134,7 +1134,7 @@ I"ã<h1 class="pagetitle">Contact</h1>
       </ul>
       <ul id="statuslinks">
         <li><i class="icon-map-marker icon-large"></i> <a href="http://en.wikipedia.org/wiki/Washington,_D.C.">Washington, D.C.</a></li>
-        <li><i class="icon-book icon-large"></i> <a href="http://en.wikipedia.org/wiki/Ready_Player_One">Ready Player One</a></li>
+        <li><i class="icon-book icon-large"></i> <a href="http://en.wikipedia.org/wiki/Foundation_(novel)">Foundation</a></li>
       </ul>
     </div> <!--End Navigation-->
   </body>
@@ -1162,7 +1162,8 @@ I"ÿ<h1 class="pagetitle">Projects</h1>
 <li><a href="http://www.albertwavering.com/projects/drum.html">Da Vinci's Mechanical Drum</a> - a life size, working replica of one of Leonardo's machines.</li>
 </ul>
 </div>;T;@,I"
-/404/;T{;{	;I"ß	<html lang="en">
+/404/;T{;{	;I"
+<html lang="en">
 
 <!--
      __          __
@@ -1177,8 +1178,8 @@ I"ÿ<h1 class="pagetitle">Projects</h1>
   <head>
     <meta charset="utf-8">
     <title>Albert Wavering: 404 Not Found</title>
-    <link rel="stylesheet" media='screen and (min-width: 801px)' href="css/big.css">
-    <link rel='stylesheet' media='screen and (max-width: 800px)' href='css/small.css' />
+    <link rel="stylesheet" media='screen and (min-width: 801px)' href="http://www.albertwavering.com/css/big.css">
+    <link rel='stylesheet' media='handheld and (max-width: 800px)' href='http://www.albertwavering.com/css/small.css' />
     <link rel="icon" type="image/png" href="http://www.albertwavering.com/favicon.ico">
 	<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700' rel='stylesheet' type='text/css'>
@@ -1217,7 +1218,7 @@ I"ÿ<h1 class="pagetitle">Projects</h1>
       </ul>
       <ul id="statuslinks">
         <li><i class="icon-map-marker icon-large"></i> <a href="http://en.wikipedia.org/wiki/Washington,_D.C.">Washington, D.C.</a></li>
-        <li><i class="icon-book icon-large"></i> <a href="http://en.wikipedia.org/wiki/Ready_Player_One">Ready Player One</a></li>
+        <li><i class="icon-book icon-large"></i> <a href="http://en.wikipedia.org/wiki/Foundation_(novel)">Foundation</a></li>
       </ul>
     </div> <!--End Navigation-->
   </body>
