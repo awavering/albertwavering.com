@@ -24,9 +24,9 @@ ul {
 }
 
 #content {
-	position: relative;
-	margin-left: 380px;
-	margin-top: 40px;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 #content #pagetitle {
@@ -35,47 +35,64 @@ ul {
 }
 
 #content .pagecontent {
-	font-size: 20px;
+	width: 500px;
+	margin-left:auto;
+	margin-right:auto;
 }
 
 #content .pagecontent p{
-	padding-top: 20px;
-	padding-bottom: 20px;
+	display: block;
+	margin-top: 100px;
+	font-size: 26px;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 #content #homedescription {
-	margin-top: 40px;
+	display: block;
+	margin-top: 100px;
 	font-size: 26px;
-	width: 400px;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 #navigation {
 	text-align: left;
+	display: block;
 	position: fixed;
 	z-index: 100;
-	height: 100%;
-	width: 300px;
+	height: 100px;
+	width: 100%;
 	top: 0;
 	background: #08C;
 	color: white;
 }
 
 #navigation #name {
-	font-size: 28px;
+	font-size: 18px;
 	text-align: left;
-	margin-top: 40px;
-	margin-left: 40px;
+	width: 220px;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 #navlinks {
 	list-style-type: none;
-	margin-top: 40px;
-	margin-left: 40px;
+	padding: 0px;
+	width: 330px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 4px;
 }
 
 #navlinks li {
-	font-size: 26px;
-	line-height: 40px;
+	font-size: 24px;
+	display: inline;
+	padding-left: 10px;
+	padding-right: 10px;
 }
 
 #navlinks li a{
@@ -86,6 +103,7 @@ ul {
 	list-style-type: none;
 	margin-top: 40px;
 	margin-left: 40px;
+	display: none;
 }
 
 #statuslinks li {
@@ -104,10 +122,4 @@ ul {
 
 #statuslinks .icon-book {
 	margin-right: 8px;
-}
-
-.pagecontent {
-	padding-top: 40px;
-	padding-right: 80px;
-	padding-bottom: 40px;
 }
